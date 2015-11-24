@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitpulseTheme.Sample.iOS", "FitpulseTheme.Sample.iOS\FitpulseTheme.Sample.iOS.csproj", "{11C21B4F-3F1E-45CE-8915-67932FA845F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Release|iPhone.Build.0 = Release|iPhone
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{11C21B4F-3F1E-45CE-8915-67932FA845F1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Release|iPhone.Build.0 = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{7D39ADF7-BC88-4595-B6A0-5507E6EDFC3A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Release|iPhone.Build.0 = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C78B1C5A-0B72-4E0D-91E3-C22A04F0AD38}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Release|iPhone.Build.0 = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{DE5A8FD4-9F99-4041-9119-21A34872DA2E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Release|iPhone.Build.0 = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{EA11B120-7B1A-4477-B921-CF3FB9E48E6B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FitpulseTheme.Sample.iOS\FitpulseTheme.Sample.iOS.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = FileName
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+		version = 0.1.1.1
+	EndGlobalSection
+EndGlobal
